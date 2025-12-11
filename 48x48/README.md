@@ -1,15 +1,11 @@
 # 48 x 48
 
-![AmazonPrimeVideo](AmazonPrimeVideo.png)
-
-![Copilot](Copilot.png)
-
-![Karakeep](Karakeep.png)
-
-![Logos](Logos.png)
-
-![Netflix](Netflix.png)
-
-![Plex](Plex.png)
-
-![YouTube](YouTube.png)
+| Name               | Icon                                      |
+| ------------------ | ----------------------------------------- |
+| Amazon Prime Video | ![AmazonPrimeVideo](AmazonPrimeVideo.png) |
+| Copilot            | ![Copilot](Copilot.png)                   |
+| Karakeep           | ![Karakeep](Karakeep.png)                 |
+| Logos              | ![Logos](Logos.png)                       |
+| Netflix            | ![Netflix](Netflix.png)                   |
+| Plex               | ![Plex](Plex.png)                         |
+| YouTube            | ![YouTube](YouTube.png)                   |
