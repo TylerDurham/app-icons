@@ -6,6 +6,7 @@
 | Chat LLM Teams     | ![Chat LL Teams](ChatLLMTeams.png)          |
 | Copilot            | ![Copilot](Copilot.png)                     |
 | HBO Max            | ![HBO Max](HBOMax.png)                      |
+| Claude AI          | ![Claude AI](ClaudeAI.png)                  |
 | Karakeep           | ![Karakeep](Karakeep.png)                   |
 | Logos              | ![Logos](Logos.png)                         |
 | Netflix            | ![Netflix](Netflix.png)                     |
