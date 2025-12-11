@@ -3,6 +3,7 @@
 | Name               | Icon                                        |
 | ------------------ | ------------------------------------------- |
 | Amazon Prime Video | ![Amazon Prime Video](AmazonPrimeVideo.png) |
+| Chat LLM Teams     | ![Chat LL Teams](ChatLLMTeams.png)          |
 | Copilot            | ![Copilot](Copilot.png)                     |
 | HBO Max            | ![HBO Max](HBOMax.png)                      |
 | Karakeep           | ![Karakeep](Karakeep.png)                   |
